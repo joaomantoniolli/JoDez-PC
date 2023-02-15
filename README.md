@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do JoDez (João Vitor M. Antoniolli) 😁
+## Bem-vindo(a) ao perfil do João Vitor M. Antoniolli
 
  <div>
    <a href="https://github.com/JoDez-PC">
