@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do João Vitor M. Antoniolli
 
  <div>
-   <a href="https://github.com/JoDez-PC">
+   <a href="https://github.com/joaomantoniolli">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoDez-PC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoDez-PC&layout=compact&langs_count=6&theme=tokyonight"/>
 
