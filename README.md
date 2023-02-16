@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/joaomantoniolli">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoDez-PC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoDez-PC&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomantoniolli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomantoniolli&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
   <a href = "mailto:joaomantoniolli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-marcolino-antoniolli-420649246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JoDez-PC/JoDez-PC/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaomantoniolli/joaomantoniolli/blob/output/github-contribution-grid-snake.svg)
   
   ### Layout by DEVEMDOBRO (Aula secreta DevWeek).
 
