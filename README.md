@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do João Vitor M. Antoniolli
+## Bem-vindo(a) ao perfil do João Vitor Marcolino Antoniolli
 
  <div>
    <a href="https://github.com/joaomantoniolli">
